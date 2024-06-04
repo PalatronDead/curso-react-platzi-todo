@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/curso-react-platzi-todo/static/css/main.f8ee095e.css",
-    "main.js": "/curso-react-platzi-todo/static/js/main.1aa3efb9.js",
+    "main.css": "/curso-react-platzi-todo/static/css/main.3c788b6b.css",
+    "main.js": "/curso-react-platzi-todo/static/js/main.00a6fd32.js",
     "index.html": "/curso-react-platzi-todo/index.html",
     "static/media/delete.svg": "/curso-react-platzi-todo/static/media/delete.67697f56fd2f149bc9515a879062ad5c.svg",
     "static/media/check.svg": "/curso-react-platzi-todo/static/media/check.23109d14544b9bb9b3d5d4e65ea13701.svg",
-    "main.f8ee095e.css.map": "/curso-react-platzi-todo/static/css/main.f8ee095e.css.map",
-    "main.1aa3efb9.js.map": "/curso-react-platzi-todo/static/js/main.1aa3efb9.js.map"
+    "main.3c788b6b.css.map": "/curso-react-platzi-todo/static/css/main.3c788b6b.css.map",
+    "main.00a6fd32.js.map": "/curso-react-platzi-todo/static/js/main.00a6fd32.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8ee095e.css",
-    "static/js/main.1aa3efb9.js"
+    "static/css/main.3c788b6b.css",
+    "static/js/main.00a6fd32.js"
   ]
 }
